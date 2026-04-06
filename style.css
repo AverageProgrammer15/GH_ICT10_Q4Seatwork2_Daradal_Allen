@@ -1,0 +1,48 @@
+/* General page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    text-align: center;
+    padding: 50px;
+}
+
+/* Input fields */
+input {
+    display: block;
+    width: 250px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+/* Buttons */
+button {
+    margin: 10px 5px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 6px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #45a049;
+}
+
+/* Output box */
+#output {
+    margin-top: 20px;
+    padding: 15px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    min-height: 50px;
+}
